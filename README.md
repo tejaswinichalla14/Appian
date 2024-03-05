@@ -14,18 +14,22 @@ This project is a application designed to simplify the process of reimbursing em
 
 <img width="914" alt="image" src="https://github.com/tejaswinichalla14/Appian/assets/112043779/c8750fd4-38d6-4b4a-972a-841f60cbf55a">
 
+
 **The main site view which has Tasks, Records, Reimbursement Form, Reports.
 This is the tasks view where HR checks whether a task is assigned or completed**
 
 <img width="908" alt="image" src="https://github.com/tejaswinichalla14/Appian/assets/112043779/d51a4155-8ab4-4e0a-a949-c34565ba8583">
 
+
 **This is the Record view where all the Approved and Rejected applications are stored.**
 
 <img width="916" alt="image" src="https://github.com/tejaswinichalla14/Appian/assets/112043779/52e44e3b-2bb9-494d-a39b-6c20812e2745">
 
+
 **This is the Employee's Reimbursement Application Form.**
 
 <img width="910" alt="image" src="https://github.com/tejaswinichalla14/Appian/assets/112043779/4195c374-05fc-4d7e-84ef-1a32e100177b">
+
 
 **This is the report view, Analysis of amount Approved and total of Approvals.**
 
